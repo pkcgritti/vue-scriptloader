@@ -27,10 +27,9 @@ export default {
     }
   },
   mounted () {
-    this.$loadScript(
-      'https://maps.googleapis.com/maps/api/js?key=AIzaSyCq1ZKvvQ-ocZT0Jw-Ya1gJJSixt8oE-KI',
-      this.mountMap
-    )
+    this.$loadScript({
+      src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCq1ZKvvQ-ocZT0Jw-Ya1gJJSixt8oE-KI'
+    }, this.mountMap)
   }
 }
 </script>
