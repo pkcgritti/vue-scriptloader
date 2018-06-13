@@ -1,6 +1,6 @@
 {
   "name": "vue-scriptloader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue.js plugin to load external scripts in demand",
   "author": "Marcos Cesar Gritti <cesargritti@gmail.com>",
   "main": "dist/lib/vue-scriptloader.min.js",
