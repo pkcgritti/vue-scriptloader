@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pkcgritti/scriptloader.git"
+    "url": "git+https://github.com/pkcgritti/vue-scriptloader.git"
   },
   "keywords": [
     "script",
@@ -16,7 +16,7 @@
     "async"
   ],
   "bugs": {
-    "url": "https://github.com/pkcgritti/scriptloader/issues"
+    "url": "https://github.com/pkcgritti/vue-scriptloader/issues"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
