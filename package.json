@@ -28,7 +28,10 @@
     "build:docs": "node build/build.js",
     "lint": "eslint --ext .js,.vue src"
   },
+  
   "dependencies": {
+  },
+  "peerDependencies": {
     "vue": "^2.3.3"
   },
   "devDependencies": {
